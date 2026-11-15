@@ -15,3 +15,16 @@ HIVEBOUND — приключенческая игра, в которой теб�
 3. Следуй инструкциям Android.
 
 Спасибо за поддержку HIVEBOUND! 💙
+## 📸 Скриншоты HIVEBOUND
+
+### 🐝 Обложка игры
+![HIVEBOUND](Без%20названия45_20261114162646.jpg)
+
+### 🌳 Игровой мир
+![Мир HIVEBOUND](Screenshot_20261115_182935_place.ship.levelminibust6ec5.hivebound.jpg)
+
+### 🏡 Ульи
+![Ульи](Screenshot_20261115_182947_place.ship.levelminibust6ec5.hivebound.jpg)
+
+### 🌙 Царство
+![Царство](Screenshot_20261115_183013_place.ship.levelminibust6ec5.hivebound.jpg)
